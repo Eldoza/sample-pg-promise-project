@@ -1,0 +1,23 @@
+# Node
+node_modules
+
+# Config Files
+.env
+.vscode
+
+# Codeclimate
+codeclimate.html
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/
+.ebextensions/
+
+# Test output
+tmp
+logs
+test.txt
+
+.DS_Store
+
+# IDE
+.historynode_modules/
